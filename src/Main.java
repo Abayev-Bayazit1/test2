@@ -16,7 +16,6 @@ public class Main {
         for (Ishape shape : shapes) {
             System.out.println(shape.toString());
 
-        }
-
+            }
         }
     }

@@ -48,6 +48,6 @@ public class Rectangle implements Ishape {
 
     @Override
     public String toString() {
-        return "Rectangle: " + "The area is " + getArea() + " and the perimeter is " + getPerimeter() ;
+        return "Rectangle: " + " the perimeter is "  + getPerimeter() + " the area is " + getArea();
     }
 }
