@@ -61,7 +61,7 @@ public class Triangle implements Ishape {
 
    @Override
     public String toString() {
-       return "Triangle: " + "the perimeter is " + getPerimeter() + " the area is " + getArea();
+       return "Triangle is : " + "the perimeter is " + getPerimeter() + " And the area is(smth) " + getArea();
    }
 
 }
