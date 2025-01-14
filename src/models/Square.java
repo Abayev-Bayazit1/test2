@@ -32,6 +32,6 @@ public class Square  implements Ishape{
 
     @Override
     public String toString() {
-        return "Square: " + "The area of the square is " + area() + " and the perimeter: " + perimeter();
+        return "Square: " + "The area of the square is " + area() + " and the perimeter??: " + perimeter();
     }
 }
