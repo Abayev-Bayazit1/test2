@@ -26,7 +26,7 @@ public class Square  implements Ishape{
 
     @Override
     public double area() {
-        return x * x;
+        return Math.pow(x, 2);
 
     }
 
